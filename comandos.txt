@@ -1,0 +1,6 @@
+garagem - Mais informações sobre a GaragemHacker
+status - Saiba se a Garagem Hacker está aberta ou fechada
+dolar - Veja o tamanho da facada antes de comprar a sua plaquinha, módulo, shield, etc...
+endereco - Veja o endereço da Garagem Hacker
+talk - Diga um olá para a rainha das trevas
+tempo - Veja como está o tempo em Curitiba

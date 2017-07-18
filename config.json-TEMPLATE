@@ -1,0 +1,6 @@
+{
+	"garagemChatId":10,
+	"botToken":"botToken",
+	"secretPath":"/secretPath/",
+	"receiveStatusPath":"/secrectPath/"
+}
